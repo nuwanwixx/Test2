@@ -60,6 +60,9 @@ namespace TestCode.Droid
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f050001
+			public const int Button1 = 2131034113;
+			
 			// aapt resource value: 0x7f050000
 			public const int myButton = 2131034112;
 			
@@ -97,6 +100,9 @@ namespace TestCode.Droid
 			
 			// aapt resource value: 0x7f040000
 			public const int hello = 2130968576;
+			
+			// aapt resource value: 0x7f040002
+			public const int submit = 2130968578;
 			
 			static String()
 			{
