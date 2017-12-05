@@ -63,6 +63,9 @@ namespace TestCode.Droid
 			// aapt resource value: 0x7f050001
 			public const int Button1 = 2131034113;
 			
+			// aapt resource value: 0x7f050002
+			public const int TextView1 = 2131034114;
+			
 			// aapt resource value: 0x7f050000
 			public const int myButton = 2131034112;
 			
